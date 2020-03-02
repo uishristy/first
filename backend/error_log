@@ -1,0 +1,237 @@
+[01-Dec-2018 15:43:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka765/public_html/principle9.com.au/backend/login_redirect.php on line 64
+[04-Dec-2018 09:57:00 UTC] PHP Notice:  Undefined variable: user in /home/priyanka765/public_html/principle9.com.au/backend/pdo_class_data.php on line 30
+[04-Dec-2018 09:57:00 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[04-Dec-2018 09:57:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:249
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/includes/topbar.php(49): count_notification('notification', NULL)
+#1 /home/priyanka765/public_html/principle9.com.au/backend/includes/header_end.php(19): require('/home/priyanka7...')
+#2 /home/priyanka765/public_html/principle9.com.au/backend/view_property.php(8): require('/home/priyanka7...')
+#3 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[04-Dec-2018 11:38:04 UTC] PHP Notice:  Undefined variable: user in /home/priyanka765/public_html/principle9.com.au/backend/pdo_class_data.php on line 30
+[04-Dec-2018 11:38:04 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[04-Dec-2018 11:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:249
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/includes/topbar.php(49): count_notification('notification', NULL)
+#1 /home/priyanka765/public_html/principle9.com.au/backend/includes/header_end.php(19): require('/home/priyanka7...')
+#2 /home/priyanka765/public_html/principle9.com.au/backend/add_popups.php(12): require('/home/priyanka7...')
+#3 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[05-Dec-2018 10:16:51 UTC] PHP Notice:  Undefined variable: user in /home/priyanka765/public_html/principle9.com.au/backend/pdo_class_data.php on line 30
+[05-Dec-2018 10:16:51 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[05-Dec-2018 10:16:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:249
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/includes/topbar.php(49): count_notification('notification', NULL)
+#1 /home/priyanka765/public_html/principle9.com.au/backend/includes/header_end.php(19): require('/home/priyanka7...')
+#2 /home/priyanka765/public_html/principle9.com.au/backend/view_property_category.php(4): require('/home/priyanka7...')
+#3 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[05-Dec-2018 11:14:54 UTC] PHP Notice:  Undefined variable: user in /home/priyanka765/public_html/principle9.com.au/backend/pdo_class_data.php on line 30
+[05-Dec-2018 11:14:54 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[05-Dec-2018 11:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:249
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/includes/topbar.php(49): count_notification('notification', NULL)
+#1 /home/priyanka765/public_html/principle9.com.au/backend/includes/header_end.php(19): require('/home/priyanka7...')
+#2 /home/priyanka765/public_html/principle9.com.au/backend/update_property.php(52): require('/home/priyanka7...')
+#3 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[06-Dec-2018 08:05:41 UTC] PHP Notice:  Undefined variable: user in /home/priyanka765/public_html/principle9.com.au/backend/pdo_class_data.php on line 30
+[06-Dec-2018 08:05:41 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[06-Dec-2018 08:05:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:249
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/includes/topbar.php(49): count_notification('notification', NULL)
+#1 /home/priyanka765/public_html/principle9.com.au/backend/includes/header_end.php(19): require('/home/priyanka7...')
+#2 /home/priyanka765/public_html/principle9.com.au/backend/view_property.php(8): require('/home/priyanka7...')
+#3 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 249
+[06-Dec-2018 08:37:26 UTC] PHP Notice:  Undefined index: floor_plan in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 99
+[06-Dec-2018 08:37:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'video_link' in 'field list' in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php:103
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php(103): PDO->exec('INSERT INTO `pr...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 103
+[06-Dec-2018 08:38:37 UTC] PHP Notice:  Undefined index: floor_plan in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 99
+[06-Dec-2018 08:38:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'video_link' in 'field list' in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php:103
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php(103): PDO->exec('INSERT INTO `pr...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 103
+[06-Dec-2018 08:47:09 UTC] PHP Notice:  Undefined index: floor_plan in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 99
+[06-Dec-2018 08:47:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'video_link' in 'field list' in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php:103
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php(103): PDO->exec('INSERT INTO `pr...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 103
+[06-Dec-2018 10:05:14 UTC] PHP Notice:  Undefined variable: user in /home/priyanka765/public_html/principle9.com.au/backend/pdo_class_data.php on line 30
+[06-Dec-2018 10:05:18 UTC] PHP Notice:  Undefined index: floor_plan in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 99
+[06-Dec-2018 10:05:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'video_link' in 'field list' in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php:103
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php(103): PDO->exec('INSERT INTO `pr...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/property_handle.php on line 103
+[07-Dec-2018 08:38:17 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:38:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(32): count_tem_in_table('product_categor...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:38 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(32): count_tem_in_table('product_categor...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:43 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(32): count_tem_in_table('product_categor...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:45 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(32): count_tem_in_table('product_categor...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:45 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(32): count_tem_in_table('product_categor...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:45 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:39:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(32): count_tem_in_table('product_categor...')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:40:19 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(53): count_tem_in_table('products')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:40:39 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(53): count_tem_in_table('products')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:41:14 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(99): count_tem_in_table('your_story')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:41:20 UTC] PHP Notice:  Undefined variable: stmt in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[07-Dec-2018 08:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php:263
+Stack trace:
+#0 /home/priyanka765/public_html/principle9.com.au/backend/dashboard.php(99): count_tem_in_table('your_story')
+#1 {main}
+  thrown in /home/priyanka765/public_html/principle9.com.au/backend/administrator/function.php on line 263
+[16-Mar-2019 08:48:39 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 08:49:46 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 08:50:39 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 08:51:13 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 08:51:34 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 08:54:28 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 08:55:11 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[16-Mar-2019 09:06:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:289
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php(289): PDO->__construct('mysql:host=127....', 'mediprints', 'Mediprints@213', Array)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', '61')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#3 /home/odfsmcj9lovi/public_html/mediprints/backend/update_product.php(4): require('/home/odfsmcj9l...')
+#4 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 289
+[16-Mar-2019 09:15:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server in /home/odfsmcj9lovi/public_html/mediprints/backend/update_product_handle.php:6
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/update_product_handle.php(6): PDO->__construct('mysql:host=127....', 'mediprints', 'Mediprints@213', Array)
+#1 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/update_product_handle.php on line 6
+[18-Mar-2019 06:07:36 UTC] PHP Notice:  Undefined variable: user in /home/odfsmcj9lovi/public_html/mediprints/backend/pdo_class_data.php on line 30
+[18-Mar-2019 06:07:36 UTC] PHP Notice:  Undefined variable: stmt in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[18-Mar-2019 06:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:297
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', NULL)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/add_product.php(4): require('/home/odfsmcj9l...')
+#3 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[18-Mar-2019 06:49:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server in /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_start.php:6
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_start.php(6): PDO->__construct('mysql:host=127....', 'mediprints', 'Mediprints@213', Array)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/view_products.php(1): require('/home/odfsmcj9l...')
+#2 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_start.php on line 6
+[18-Mar-2019 08:52:14 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[25-Jul-2019 13:55:05 UTC] PHP Notice:  Undefined index: user in /home/odfsmcj9lovi/public_html/mediprints/backend/login_redirect.php on line 20
+[25-Jul-2019 13:55:05 UTC] PHP Notice:  Undefined index: user in /home/odfsmcj9lovi/public_html/mediprints/backend/login_redirect.php on line 21
+[25-Jul-2019 13:55:05 UTC] PHP Notice:  Undefined index: pass in /home/odfsmcj9lovi/public_html/mediprints/backend/login_redirect.php on line 22
+[25-Jul-2019 13:55:05 UTC] PHP Notice:  Undefined index: role in /home/odfsmcj9lovi/public_html/mediprints/backend/login_redirect.php on line 23
+[26-Jul-2019 07:45:41 UTC] PHP Notice:  Undefined variable: user in /home/odfsmcj9lovi/public_html/mediprints/backend/pdo_class_data.php on line 30
+[26-Jul-2019 07:45:41 UTC] PHP Notice:  Undefined variable: stmt in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[26-Jul-2019 07:45:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:297
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', NULL)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/view_products.php(4): require('/home/odfsmcj9l...')
+#3 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[26-Jul-2019 07:47:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:289
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php(289): PDO->__construct('mysql:host=127....', 'mediprints', 'Mediprints@213', Array)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', '61')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#3 /home/odfsmcj9lovi/public_html/mediprints/backend/view_products.php(4): require('/home/odfsmcj9l...')
+#4 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 289
+[26-Jul-2019 07:54:14 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 07:55:16 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:07:12 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:33:37 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:35:04 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:35:46 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:36:00 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:36:20 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:36:40 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 08:39:09 UTC] PHP Notice:  Undefined variable: pdo_aauth in /home/odfsmcj9lovi/public_html/mediprints/backend/update_pr_category.php on line 17
+[26-Jul-2019 11:28:36 UTC] PHP Notice:  Undefined variable: user in /home/odfsmcj9lovi/public_html/mediprints/backend/pdo_class_data.php on line 30
+[26-Jul-2019 11:28:37 UTC] PHP Notice:  Undefined variable: stmt in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[26-Jul-2019 11:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:297
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', NULL)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/view_products.php(4): require('/home/odfsmcj9l...')
+#3 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[26-Jul-2019 11:54:35 UTC] PHP Warning:  getimagesize(product//1564142075D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 11:54:35 UTC] PHP Warning:  getimagesize(product//1564142075D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 11:54:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 67
+[26-Jul-2019 11:56:29 UTC] PHP Warning:  getimagesize(product//1564142189D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 11:56:29 UTC] PHP Warning:  getimagesize(product//1564142189D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 11:56:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 67
+[26-Jul-2019 12:00:23 UTC] PHP Warning:  getimagesize(product//1564142423D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 12:00:23 UTC] PHP Warning:  getimagesize(product//1564142423D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 12:00:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 67
+[26-Jul-2019 12:03:43 UTC] PHP Warning:  getimagesize(product//1564142623D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 12:03:43 UTC] PHP Warning:  getimagesize(product//1564142623D Cut Designs - 3.jpg): failed to open stream: No such file or directory in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 30
+[26-Jul-2019 12:03:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/odfsmcj9lovi/public_html/mediprints/backend/resize_image.php on line 67
+[29-Jul-2019 09:43:35 UTC] PHP Notice:  Undefined variable: user in /home/odfsmcj9lovi/public_html/mediprints/backend/pdo_class_data.php on line 30
+[29-Jul-2019 09:43:35 UTC] PHP Notice:  Undefined variable: stmt in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[29-Jul-2019 09:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:297
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', NULL)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/view_video.php(3): require('/home/odfsmcj9l...')
+#3 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[29-Jul-2019 09:56:09 UTC] PHP Notice:  Undefined variable: user in /home/odfsmcj9lovi/public_html/mediprints/backend/pdo_class_data.php on line 30
+[29-Jul-2019 09:56:09 UTC] PHP Notice:  Undefined variable: stmt in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
+[29-Jul-2019 09:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php:297
+Stack trace:
+#0 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/topbar.php(23): count_notification('notification', NULL)
+#1 /home/odfsmcj9lovi/public_html/mediprints/backend/includes/header_end.php(19): require('/home/odfsmcj9l...')
+#2 /home/odfsmcj9lovi/public_html/mediprints/backend/view_pr_category.php(4): require('/home/odfsmcj9l...')
+#3 {main}
+  thrown in /home/odfsmcj9lovi/public_html/mediprints/backend/administrator/function.php on line 297
